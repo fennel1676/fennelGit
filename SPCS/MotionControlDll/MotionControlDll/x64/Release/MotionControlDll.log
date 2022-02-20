@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  dllmain.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  MotionControlDll.cpp
+     Creating library ..\..\_Run64_R\MotionControlDll.lib and object ..\..\_Run64_R\MotionControlDll.exp
+  Generating code
+  All 131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MotionControlDll.vcxproj -> D:\Project\SPCS\MotionControlDll\MotionControlDll\..\..\_Run64_R\MotionControlDll.dll
+  MotionControlDll.vcxproj -> ..\..\_Run64_R\MotionControlDll.pdb (Full PDB)

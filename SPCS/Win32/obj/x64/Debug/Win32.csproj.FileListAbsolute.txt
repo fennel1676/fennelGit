@@ -1,0 +1,9 @@
+D:\Project\SPCS\_Run64_D\HNS.Win32.dll
+D:\Project\SPCS\_Run64_D\HNS.Win32.pdb
+D:\Project\SPCS\Win32\obj\x64\Debug\HNS.Win32.dll
+D:\Project\SPCS\Win32\obj\x64\Debug\HNS.Win32.pdb
+D:\SmartPack\SPCS\_Run64_D\HNS.Win32.dll
+D:\SmartPack\SPCS\_Run64_D\HNS.Win32.pdb
+D:\SmartPack\SPCS\Win32\obj\x64\Debug\HNS.Win32.dll
+D:\SmartPack\SPCS\Win32\obj\x64\Debug\HNS.Win32.pdb
+D:\SmartPack\SPCS\Win32\obj\x64\Debug\Win32.csprojResolveAssemblyReference.cache
