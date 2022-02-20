@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MotionControlDll.cpp
+     Creating library D:\Work\PNI\02. HYUNDAI\double2\MotionControlDll\Debug\MotionControlDll.lib and object D:\Work\PNI\02. HYUNDAI\double2\MotionControlDll\Debug\MotionControlDll.exp
+  MotionControlDll.vcxproj -> D:\Work\PNI\02. HYUNDAI\double2\MotionControlDll\Debug\MotionControlDll.dll
+  MotionControlDll.vcxproj -> D:\Work\PNI\02. HYUNDAI\double2\MotionControlDll\Debug\MotionControlDll.pdb (Partial PDB)

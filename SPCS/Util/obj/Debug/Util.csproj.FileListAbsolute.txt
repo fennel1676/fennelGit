@@ -1,0 +1,14 @@
+D:\Project\LibraryTestApp\Util\bin\Debug\HNS.Util.dll
+D:\Project\LibraryTestApp\Util\bin\Debug\HNS.Util.pdb
+D:\Project\LibraryTestApp\Util\bin\Debug\HNS.Win32.dll
+D:\Project\LibraryTestApp\Util\bin\Debug\HNS.Win32.pdb
+D:\Project\LibraryTestApp\Util\obj\Debug\HNS.Util.dll
+D:\Project\LibraryTestApp\Util\obj\Debug\HNS.Util.pdb
+D:\Project\LibraryTestApp\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+D:\Project\SPCS\Util\bin\Debug\HNS.Util.dll
+D:\Project\SPCS\Util\bin\Debug\HNS.Util.pdb
+D:\Project\SPCS\Util\bin\Debug\HNS.Win32.dll
+D:\Project\SPCS\Util\bin\Debug\HNS.Win32.pdb
+D:\Project\SPCS\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+D:\Project\SPCS\Util\obj\Debug\HNS.Util.dll
+D:\Project\SPCS\Util\obj\Debug\HNS.Util.pdb
