@@ -31,7 +31,7 @@ namespace SPCS
         public MotionControl.Communication.Command m_ComObject = null;
 
 
-
+        /* test*/
         private delegate void CallbackEqEvtControlDeleGate(EqEventArgs e);
         private delegate void DelegatePlayStopLoadKeepAlive();
 

@@ -7,3 +7,7 @@ D:\Project\SPCS\Win32\bin\Debug\HNS.Win32.pdb
 D:\Project\SPCS\Win32\obj\Debug\HNS.Win32.dll
 D:\Project\SPCS\Win32\obj\Debug\HNS.Win32.pdb
 D:\Project\SPCS\Win32\obj\Debug\Win32.csprojResolveAssemblyReference.cache
+D:\Project\ProjectGit\SPCS\Win32\bin\Debug\HNS.Win32.dll
+D:\Project\ProjectGit\SPCS\Win32\bin\Debug\HNS.Win32.pdb
+D:\Project\ProjectGit\SPCS\Win32\obj\Debug\HNS.Win32.dll
+D:\Project\ProjectGit\SPCS\Win32\obj\Debug\HNS.Win32.pdb
