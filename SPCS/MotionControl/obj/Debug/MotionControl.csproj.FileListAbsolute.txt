@@ -1,0 +1,9 @@
+D:\Project\SPCS\_Run64_D\MotionControl.dll
+D:\Project\SPCS\_Run64_D\MotionControl.pdb
+D:\Project\SPCS\MotionControl\obj\Debug\MotionControl.dll
+D:\Project\SPCS\MotionControl\obj\Debug\MotionControl.pdb
+D:\SmartPack\SPCS\MotionControl\obj\Debug\MotionControl.csprojResolveAssemblyReference.cache
+D:\SmartPack\SPCS\MotionControl\obj\Debug\MotionControl.dll
+D:\SmartPack\SPCS\MotionControl\obj\Debug\MotionControl.pdb
+D:\SmartPack\SPCS\_Run64_D\MotionControl.dll
+D:\SmartPack\SPCS\_Run64_D\MotionControl.pdb
