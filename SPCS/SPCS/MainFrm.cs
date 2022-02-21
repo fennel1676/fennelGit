@@ -30,8 +30,8 @@ namespace SPCS
         private AppSettingsReader m_optConfig;
         public MotionControl.Communication.Command m_ComObject = null;
 
+        /* test2 */
 
-        /* test*/
         private delegate void CallbackEqEvtControlDeleGate(EqEventArgs e);
         private delegate void DelegatePlayStopLoadKeepAlive();
 

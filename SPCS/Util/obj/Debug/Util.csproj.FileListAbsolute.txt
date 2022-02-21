@@ -12,10 +12,3 @@ D:\Project\SPCS\Util\bin\Debug\HNS.Win32.pdb
 D:\Project\SPCS\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
 D:\Project\SPCS\Util\obj\Debug\HNS.Util.dll
 D:\Project\SPCS\Util\obj\Debug\HNS.Util.pdb
-D:\Project\ProjectGit\SPCS\Util\bin\Debug\HNS.Util.dll
-D:\Project\ProjectGit\SPCS\Util\bin\Debug\HNS.Util.pdb
-D:\Project\ProjectGit\SPCS\Util\bin\Debug\HNS.Win32.dll
-D:\Project\ProjectGit\SPCS\Util\bin\Debug\HNS.Win32.pdb
-D:\Project\ProjectGit\SPCS\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
-D:\Project\ProjectGit\SPCS\Util\obj\Debug\HNS.Util.dll
-D:\Project\ProjectGit\SPCS\Util\obj\Debug\HNS.Util.pdb

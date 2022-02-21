@@ -7,7 +7,3 @@ D:\SmartPack\SPCS\MotionControl\obj\Debug\MotionControl.dll
 D:\SmartPack\SPCS\MotionControl\obj\Debug\MotionControl.pdb
 D:\SmartPack\SPCS\_Run64_D\MotionControl.dll
 D:\SmartPack\SPCS\_Run64_D\MotionControl.pdb
-D:\Project\ProjectGit\SPCS\_Run64_D\MotionControl.dll
-D:\Project\ProjectGit\SPCS\_Run64_D\MotionControl.pdb
-D:\Project\ProjectGit\SPCS\MotionControl\obj\Debug\MotionControl.dll
-D:\Project\ProjectGit\SPCS\MotionControl\obj\Debug\MotionControl.pdb

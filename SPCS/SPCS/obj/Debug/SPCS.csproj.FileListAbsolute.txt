@@ -18,9 +18,3 @@ D:\Project\SPCS\_Run32_D\SPCS.exe.config
 D:\Project\ProjectGit\SPCS\_Run32_D\SPCS.exe.config
 D:\Project\ProjectGit\SPCS\SPCS\obj\Debug\SPCS.exe
 D:\Project\ProjectGit\SPCS\SPCS\obj\Debug\SPCS.pdb
-D:\Project\ProjectGit\SPCS\_Run32_D\SPCS.exe
-D:\Project\ProjectGit\SPCS\_Run32_D\SPCS.pdb
-D:\Project\ProjectGit\SPCS\SPCS\obj\Debug\SPCS.csprojResolveAssemblyReference.cache
-D:\Project\ProjectGit\SPCS\SPCS\obj\Debug\SPCS.MainFrm.resources
-D:\Project\ProjectGit\SPCS\SPCS\obj\Debug\SPCS.Properties.Resources.resources
-D:\Project\ProjectGit\SPCS\SPCS\obj\Debug\SPCS.csproj.GenerateResource.Cache
